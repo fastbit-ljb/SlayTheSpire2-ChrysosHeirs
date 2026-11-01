@@ -1,0 +1,23 @@
+{
+  "TRIAL_RECORD.title": "先古试炼记录",
+  "TRIAL_RECORD.description": "记录你这一局已挑战过的黄金裔。",
+  "TRIAL_RECORD.flavor": "命运的丝线，已被织入一缕。",
+  "ROMANCE_RESONANCE.title": "浪漫共鸣",
+  "ROMANCE_RESONANCE.description": "每场战斗开始时，额外获得 [blue]1[/blue] 点能量。每打出一张技能牌，获得 [blue]1[/blue] 点 [blue]金丝[/blue]。",
+  "ROMANCE_RESONANCE.flavor": "黄金之茧，墨涅塔。",
+  "GOLDEN_WEB.title": "金丝织网",
+  "GOLDEN_WEB.description": "每当你获得能量时，抽 [blue]1[/blue] 张牌。你的手牌上限减少 [blue]1[/blue]。",
+  "GOLDEN_WEB.flavor": "命运之网，丝丝入扣。",
+  "GOLDEN_COCOON.title": "黄金之茧",
+  "GOLDEN_COCOON.description": "每场战斗开始时，获得 [blue]2[/blue] 点力量和 [blue]3[/blue] 点格挡。但你每回合结束时失去 [blue]3[/blue] 点生命。",
+  "GOLDEN_COCOON.flavor": "茧中窥命，进退皆织。",
+  "WEAVER_GIFT.title": "织者的恩赐",
+  "WEAVER_GIFT.description": "获得一张卡牌 [blue]金丝裁衣[/blue]。",
+  "WEAVER_GIFT.flavor": "一针一线，皆是命运。",
+  "FATE_SPINDLE.title": "命运纺锤",
+  "FATE_SPINDLE.description": "每当你打出一张牌时，有 [blue]25%[/blue] 概率使下一张牌费用变为 [blue]0[/blue]。",
+  "FATE_SPINDLE.flavor": "纺锤转动，命运改写。",
+  "GOLDEN_ROSE_FINGER.title": "金玫之指",
+  "GOLDEN_ROSE_FINGER.description": "升级后的攻击牌额外造成 [blue]5[/blue] 点伤害。升级后的技能牌额外获得 [blue]3[/blue] 点格挡。获得时，升级你牌组中的一张牌。",
+  "GOLDEN_ROSE_FINGER.flavor": "指尖金玫，为英雄加冕。"
+}

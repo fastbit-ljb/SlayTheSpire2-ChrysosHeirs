@@ -1,0 +1,11 @@
+{
+  "TRIAL_OFFER.title": "先古试炼",
+  "TRIAL_OFFER.pages.INITIAL.description": "最后一堆篝火的余烬旁，立着一座古老的祭坛。几位先古黄金裔的身影在火光中若隐若现，等待着挑战者的到来。每位黄金裔的试炼，一局只有一次机会。",
+  "TRIAL_OFFER.pages.INITIAL.options.AGLAEA": "挑战 阿格莱雅 的试炼。",
+  "TRIAL_OFFER.pages.INITIAL.options.LEAVE": "[离开]",
+  "TRIAL_OFFER.pages.CONFIRM.description": "黄金裔的身影注视着你。一旦开战便无退路：胜利者将获得共鸣的传承，失败者将殒命于此。",
+  "TRIAL_OFFER.pages.CONFIRM.options.FIGHT": "接受试炼。",
+  "TRIAL_OFFER.pages.CONFIRM.options.BACK": "[返回]",
+  "TRIAL_OFFER.pages.LEAVE.description": "你默默离开，祭坛的火光在你身后渐渐熄灭。",
+  "TRIAL_OFFER.pages.VICTORY.description": "试炼通过。黄金裔的身影向你颔首，将共鸣的馈赠留在祭坛之上。"
+}

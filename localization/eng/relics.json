@@ -1,0 +1,23 @@
+{
+  "TRIAL_RECORD.title": "Trial Record",
+  "TRIAL_RECORD.description": "Records which heirs you have challenged this run.",
+  "TRIAL_RECORD.flavor": "A single thread of fate, woven in.",
+  "ROMANCE_RESONANCE.title": "Romance Resonance",
+  "ROMANCE_RESONANCE.description": "At the start of each combat, gain [blue]1[/blue] additional Energy. Whenever you play a Skill card, gain [blue]1[/blue] [blue]Gold Thread[/blue].",
+  "ROMANCE_RESONANCE.flavor": "Golden Cocoon, Mnestia.",
+  "GOLDEN_WEB.title": "Golden Web",
+  "GOLDEN_WEB.description": "Whenever you gain Energy, draw [blue]1[/blue] card. Your hand size is reduced by [blue]1[/blue].",
+  "GOLDEN_WEB.flavor": "The web of fate, thread by thread.",
+  "GOLDEN_COCOON.title": "Golden Cocoon",
+  "GOLDEN_COCOON.description": "At the start of each combat, gain [blue]2[/blue] Strength and [blue]3[/blue] Block. But you lose [blue]3[/blue] HP at the end of each of your turns.",
+  "GOLDEN_COCOON.flavor": "Peering at fate from within the cocoon.",
+  "WEAVER_GIFT.title": "Weaver's Gift",
+  "WEAVER_GIFT.description": "Obtain a [blue]Golden Thread Cut[/blue] card.",
+  "WEAVER_GIFT.flavor": "Every stitch is destiny.",
+  "FATE_SPINDLE.title": "Fate Spindle",
+  "FATE_SPINDLE.description": "Whenever you play a card, [blue]25%[/blue] chance your next card costs [blue]0[/blue].",
+  "FATE_SPINDLE.flavor": "The spindle turns; destiny rewrites.",
+  "GOLDEN_ROSE_FINGER.title": "Golden Rose Finger",
+  "GOLDEN_ROSE_FINGER.description": "Upgraded Attack cards deal [blue]5[/blue] additional damage. Upgraded Skill cards grant [blue]3[/blue] additional Block. Upon pickup, upgrade a card in your deck.",
+  "GOLDEN_ROSE_FINGER.flavor": "A golden rose crowns the hero."
+}

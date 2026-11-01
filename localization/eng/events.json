@@ -1,0 +1,11 @@
+{
+  "TRIAL_OFFER.title": "Ancient Trial",
+  "TRIAL_OFFER.pages.INITIAL.description": "Beside the embers of the last campfire stands an ancient altar. Silhouettes of the Chrysos Heirs flicker in the firelight, waiting for a challenger. Each heir's trial can only be attempted once per run.",
+  "TRIAL_OFFER.pages.INITIAL.options.AGLAEA": "Challenge Aglaea's trial.",
+  "TRIAL_OFFER.pages.INITIAL.options.LEAVE": "[Leave]",
+  "TRIAL_OFFER.pages.CONFIRM.description": "The Heir watches you in silence. Once begun, there is no turning back: the victor inherits a Resonance, the loser perishes here.",
+  "TRIAL_OFFER.pages.CONFIRM.options.FIGHT": "Accept the trial.",
+  "TRIAL_OFFER.pages.CONFIRM.options.BACK": "[Back]",
+  "TRIAL_OFFER.pages.LEAVE.description": "You quietly depart; the altar's fire dims behind you.",
+  "TRIAL_OFFER.pages.VICTORY.description": "Trial passed. The Heir nods, leaving a Resonance upon the altar."
+}
