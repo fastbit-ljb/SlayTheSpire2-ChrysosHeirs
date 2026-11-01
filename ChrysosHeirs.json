@@ -1,0 +1,12 @@
+{
+  "id": "ChrysosHeirs",
+  "name": "Chrysos Heirs 先古之民",
+  "author": "fastbit-ljb",
+  "description": "Honkai: Star Rail Amphoreus crossover. At the fork behind the last campfire of each act lies an Ancient Trial. Challenge a Chrysos Heir: win to claim their Resonance relic, lose to receive a consolation Ancient relic and lose 10 Max HP. Each heir's trial can only be attempted once per run. 崩坏：星穹铁道翁法罗斯联动。每幕最后一个火堆之后出现岔路：？为先古试炼，额外火堆为补给。挑战黄金裔试炼：成功获得该黄金裔的特色（共鸣）遗物，失败获得一件安慰先古遗物并失去10点最大生命。每位黄金裔的试炼每局仅可挑战一次。",
+  "version": "0.1.0",
+  "has_pck": true,
+  "has_dll": true,
+  "dependencies": [],
+  "affects_gameplay": true,
+  "min_game_version": "0.111.0"
+}
